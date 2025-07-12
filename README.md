@@ -31,7 +31,7 @@ This is a simple **E-Commerce Admin Panel** built using:
 ## 🧠 Folder Structure
 
 '''ecommerce/
-├── src/
+├── src/                                                                                                                                                                                                             
 │ ├── main/
 │ │ ├── java/com/ecommerce/
 │ │ │ ├── controller/
