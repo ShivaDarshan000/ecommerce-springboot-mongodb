@@ -30,21 +30,24 @@ This is a simple **E-Commerce Admin Panel** built using:
 
 ## 🧠 Folder Structure
 
-'''ecommerce/
-├── src/                                                                                                                                                                                                             
-│ ├── main/
-│ │ ├── java/com/ecommerce/
-│ │ │ ├── controller/
-│ │ │ ├── model/
-│ │ │ ├── repository/
-│ │ │ ├── service/
-│ │ │ └── EcommerceApplication.java
-│ │ └── resources/
-│ │ ├── static/css/
-│ │ ├── templates/
-│ │ └── application.properties
+```
+ecommerce/
+├── src/
+│   ├── main/
+│   │   ├── java/com/ecommerce/
+│   │   │   ├── controller/
+│   │   │   ├── model/
+│   │   │   ├── repository/
+│   │   │   ├── service/
+│   │   │   └── EcommerceApplication.java
+│   │   └── resources/
+│   │       ├── static/css/
+│   │       ├── templates/
+│   │       └── application.properties
 ├── pom.xml
-└── README.md'''
+└── README.md
+```
+
 
 
 
